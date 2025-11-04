@@ -37,8 +37,8 @@ export function LoginPage() {
         <div className="max-w-md w-full space-y-8">
           <div>
             <div className="flex items-center space-x-2 mb-8">
-              <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg"></div>
-              <span className="text-2xl font-bold text-gray-900">YourBrand</span>
+              <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg text-white">Q T</div>
+              <span className="text-2xl font-bold text-gray-900">QuickTap</span>
             </div>
             <h2 className="text-3xl font-bold text-gray-900 mb-2">
               Log in to your account
